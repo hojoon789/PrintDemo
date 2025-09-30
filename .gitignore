@@ -1,1 +1,7 @@
 # 파일
+main_print_v1.ipynb
+*.avi
+
+# 폴더
+veve/
+.venv/
